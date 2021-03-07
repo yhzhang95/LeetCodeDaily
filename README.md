@@ -4,7 +4,7 @@
 
 ## <br>**2021.03.01**
 
-+ <img src="icons/hard_icon.png" height='14'> 0782. 变为棋盘 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0782.py)
++ <img src="icons/hard_icon.png" height='14'> 0782. 变为棋盘 [code](codes/No_0782.py)
 + <img src="icons/easy_icon.png" height='14'> 1403. 非递增顺序的最小子序列 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_1403.py)
 + <img src="icons/medi_icon.png" height='14'> 1048. 最长字符串链 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_1048.py)
 + <img src="icons/medi_icon.png" height='14'> 0532. 数组中的 k-diff 数对 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_532.py)
@@ -43,12 +43,22 @@
 + <img src="icons/medi_icon.png" height='14'> 1409. 查询带键的排列 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_1409.py)
 + <img src="icons/easy_icon.png" height='14'> 0066. 加一 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0066.py)
 + <img src="icons/medi_icon.png" height='14'> 0075. 颜色分类 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0075.py)
++ <img src="icons/medi_icon.png" height='14'> 0729. 我的日程安排表 I [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0729.py)
++ <img src="icons/easy_icon.png" height='14'> 1629. 按键持续时间最长的键 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_1629.py)
++ <img src="icons/medi_icon.png" height='14'> 0712. 两个字符串的最小ASCII删除和 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0712.py)
 
 <img src="icons/medi_icon.png" height='14'> 1318. 或运算的最小翻转次数 <br> &emsp;&emsp; 位运算符的熟悉。
 
-<img src="icons/hard_icon.png" height='14'> 0715. Range 模块 <br> &emsp;&emsp; biscet库的熟悉使用，依旧数学图像需要足够清晰。同时Python中列表的元素删除或者修改的语法糖需要熟悉。
+<img src="icons/hard_icon.png" height='14'> 0715. Range 模块 <br> &emsp;&emsp; biscet库的熟悉使用，依旧数学图像需要足够清晰。同时Python中列表的元素删除或者修改的语法糖需要熟悉。简化版就是题目0729，日程表1
 
 <img src="icons/medi_icon.png" height='14'> 1409. 查询带键的排列 <br> &emsp;&emsp; 没什么技巧，接单粗暴的完成要求即可。P.insert(0, P.pop(index))
+
+<img src="icons/medi_icon.png" height='14'> 0712. 两个字符串的最小ASCII删除和 <br> &emsp;&emsp; BP的最基础应用。[最好多温习]
+
+## <br>**2021.03.04**
+
++ <img src="icons/medi_icon.png" height='14'> 0015. 三数之和 [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0015.py)
++ <img src="icons/medi_icon.png" height='14'> 0445. 两数相加 II  [code](https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0445.py)
 
 [comment]: <> (   <img src="icons/hard_icon.png" height='14'>   )
 [comment]: <> (   <img src="icons/medi_icon.png" height='14'>   )
