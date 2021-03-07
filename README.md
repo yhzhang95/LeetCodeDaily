@@ -1,4 +1,5 @@
 # LeetCodeDaily
+
 记录学习过程，温故而知新。
 
 
@@ -7,13 +8,13 @@
 [comment]: <> (   <span style="color: green">**Easy**</span>    )
 
 #### **2021.03.01**
-+ <span style="color: red">**Hard**</span> 782. 变为棋盘
++ **Head** 782. 变为棋盘
 https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0782.py
 	- 数学的理解为主，即数学模型简化。
 	- 严格来说可以用numpy或者c提高效率。
 
 #### **2021.03.02**
-+ <span style="color: green">**Easy**</span> 1403. 非递增顺序的最小子序列
++ ![image](https://github.com/yhzhang95/LeetCodeDaily/blob/main/icons/easy_icon.png) 1403. 非递增顺序的最小子序列
 https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_1403.py
 	- 排序题，学习了heapq模块，非常重要。
 + <font color= Orange>**[Med.]**</font> 1048. 最长字符串链
@@ -28,3 +29,5 @@ https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0976.py
 	- Python想要不超时，还是得在算法上下功夫。
 
 
+
+<div>Icon made from <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> is licensed by CC BY 3.0</div>
