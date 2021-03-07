@@ -13,8 +13,9 @@ https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0782.py
 	- 数学的理解为主，即数学模型简化。
 	- 严格来说可以用numpy或者c提高效率。
 
-#### **2021.03.02**
-+ ![image](https://github.com/yhzhang95/LeetCodeDaily/blob/main/icons/easy_icon.png) 1403. 非递增顺序的最小子序列
+#### **2021.03.02*
+
++ <img src="https://github.com/yhzhang95/LeetCodeDaily/blob/main/icons/easy_icon.png" width="48" 1403. 非递增顺序的最小子序列
 https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_1403.py
 	- 排序题，学习了heapq模块，非常重要。
 + <font color= Orange>**[Med.]**</font> 1048. 最长字符串链
