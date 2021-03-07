@@ -15,8 +15,7 @@ https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_0782.py
 
 #### **2021.03.02*
 
-+ <img src="https://github.com/yhzhang95/LeetCodeDaily/blob/main/icons/easy_icon.png" width="48" 1403. 非递增顺序的最小子序列
-https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_1403.py
++ <img src="https://github.com/yhzhang95/LeetCodeDaily/blob/main/icons/easy_icon.png" height="16"> 1403. 非递增顺序的最小子序列https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_1403.py
 	- 排序题，学习了heapq模块，非常重要。
 + <font color= Orange>**[Med.]**</font> 1048. 最长字符串链
 https://github.com/yhzhang95/LeetCodeDaily/blob/main/No_1048.py
