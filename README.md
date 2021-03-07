@@ -28,7 +28,7 @@
 
 <img src="icons/easy_icon.png" height='14'> 0976. 三角形的最大周长 <br> &emsp;&emsp; 虽然属于简单，但是依旧是数学理解的非常重要。 **即三个连续数值组成周长最长的证明。** Python想要不超时，还是得在算法上下功夫。
 
-<img src="icons/hard_icon.png" height='14'> 0719. 找出第 k 小的距离对 <br> &emsp;&emsp; 题目看起来很简单，这时候需要关心时间复杂度的问题。如果是循环必然是爆炸的，所以需要采用更优的算法， **例如最小二乘法** 。[最好多温习]
+<img src="icons/hard_icon.png" height='14'> 0719. 找出第 k 小的距离对 <br> &emsp;&emsp; 题目看起来很简单，这时候需要关心时间复杂度的问题。如果是循环必然是爆炸的，所以需要采用更优的算法， **例如二分法的实现** 。[最好多温习]
 
 <img src="icons/medi_icon.png" height='14'> 0210. 课程表 II <br> &emsp;&emsp; 图论的运用，还需多联系。DFS和BFS......
 
